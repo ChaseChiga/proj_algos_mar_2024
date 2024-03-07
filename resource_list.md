@@ -68,7 +68,7 @@ These links were added by you, the students, and Adrian!!  Disclaimer: no compan
 - [react-bootstrap](https://react-bootstrap.github.io/)
 - [react-bootstrap-navbar](https://react-bootstrap.github.io/docs/components/navbar)
 - [react-bootstrap-forms](https://react-bootstrap.github.io/docs/forms/overview)
-- [react-bootstrap](layout https://react-bootstrap.github.io/docs/layout/grid)
+- [react-bootstrap layout](https://react-bootstrap.github.io/docs/layout/grid)
 
 ## Algorithms:
 - [Hacker Rank](https://www.hackerrank.com)
