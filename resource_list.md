@@ -59,6 +59,7 @@ These links were added by you, the students, and Adrian!!  Disclaimer: no compan
 
 ## Web (general):
 - [HTTP documentation (including status codes) from Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+- [List of event listeners](https://www.w3schools.com/jsref/dom_obj_event.asp)
 
 ## CSS:
 - [Bootstrap cheat sheet](https://getbootstrap.com/docs/5.3/examples/cheatsheet/)
@@ -91,6 +92,7 @@ These links were added by you, the students, and Adrian!!  Disclaimer: no compan
 - [Validator](https://validator.w3.org/)
 - [W3 schools](https://www.w3schools.com/)
 - [Developer Roadmaps](https://roadmap.sh/)
+- [codecademy](https://www.codecademy.com/)
 
 ## Git:
 - [Git cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
