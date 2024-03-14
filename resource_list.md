@@ -79,6 +79,7 @@ These links were added by you, the students, and Adrian!!  Disclaimer: no compan
 - [VisuAlgo](https://visualgo.net/en) - Visuals of data structures, sorts, etc.
 - [CodinGame](https://www.codingame.com/start/)
 - [Data structures and algorithms](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/?no-filter=true)
+- [Sorting in JavaScript](https://dev.to/christinamcmahon/common-sorting-algorithms-in-javascript-58a7)
 
 ## Videos from YouTube and other places:
 - [Data structures and algorithms](https://www.youtube.com/watch?v=CBYHwZcbD-s&t=2s)
