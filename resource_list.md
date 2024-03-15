@@ -86,6 +86,7 @@ These links were added by you, the students, and Adrian!!  Disclaimer: no compan
 - [Videos about coding - with great explanations](https://www.youtube.com/@WebDevSimplified)
 - [BroCode](https://www.youtube.com/@BroCodez)
 - [Harvard CS50 course](https://www.youtube.com/watch?v=4oqjcKenCH8)
+- [Big O notation](https://www.youtube.com/watch?v=XMUe3zFhM5c)
 
 ## General:
 - [Python Tutor - visualize functions](https://pythontutor.com/)
@@ -94,7 +95,7 @@ These links were added by you, the students, and Adrian!!  Disclaimer: no compan
 - [W3 schools](https://www.w3schools.com/)
 - [Developer Roadmaps](https://roadmap.sh/)
 - [codecademy](https://www.codecademy.com/)
-
+- [Markdown cheat sheet](https://markdown.land/markdown-cheat-sheet)
 ## Git:
 - [Git cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 - [Another git cheatsheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
