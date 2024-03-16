@@ -101,6 +101,7 @@ These links were added by you, the students, and Adrian!!  Disclaimer: no compan
 - [Another git cheatsheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
 - [.gitignore generator](https://www.toptal.com/developers/gitignore)
 - [API list](https://apilist.fun/)
+- [Git README generator](https://arturssmirnovs.github.io/github-profile-readme-generator/)
 
 ## APIs:
 - [Faker API](https://fakerjs.dev/api/)
