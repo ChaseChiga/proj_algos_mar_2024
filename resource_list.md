@@ -96,6 +96,8 @@ These links were added by you, the students, and Adrian!!  Disclaimer: no compan
 - [Developer Roadmaps](https://roadmap.sh/)
 - [codecademy](https://www.codecademy.com/)
 - [Markdown cheat sheet](https://markdown.land/markdown-cheat-sheet)
+- [Regular Expression compiler](https://regexr.com/)
+
 ## Git:
 - [Git cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 - [Another git cheatsheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
