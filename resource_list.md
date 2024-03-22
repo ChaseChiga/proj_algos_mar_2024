@@ -10,6 +10,7 @@ These links were added by you, the students, and Adrian!!  Disclaimer: no compan
 - [Visual of SQL joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
 - [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial)
 - [SQL CheatSheet](https://learnsql.com/blog/sql-basics-cheat-sheet/)
+- [Changing your MySQL password](https://github.com/narcisolobo/change-mysql-password)
 
 ## JavaScript/MERN:
 - [React documentation](https://react.dev/reference/react)
@@ -87,6 +88,7 @@ These links were added by you, the students, and Adrian!!  Disclaimer: no compan
 - [BroCode](https://www.youtube.com/@BroCodez)
 - [Harvard CS50 course](https://www.youtube.com/watch?v=4oqjcKenCH8)
 - [Big O notation](https://www.youtube.com/watch?v=XMUe3zFhM5c)
+- [Dynamic programming tips](https://youtube.com/shorts/uUjFL0C-vY0?si=gioRcFoVckoFEp12)
 
 ## General:
 - [Python Tutor - visualize functions](https://pythontutor.com/)
