@@ -2,7 +2,7 @@
 
 ## Announcements:
 - Keep working on your group projects!  Group projects are due this Thursday!  Presentations will be TOMORROW in lecture.
-- The last day to submit core assignments is TOMORROW in lecture!  This includes the Group Project Complete assignment.
+- The last day to submit core assignments is TOMORROW!  This includes the Group Project Complete assignment.
 - Last day to hand in discussion topics: TONIGHT (Wednesday) by 11:59 PM Pacific!
 - To pass the course:
     - At least 5 out of 8 discussion topics
